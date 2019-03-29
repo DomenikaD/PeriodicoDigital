@@ -18,7 +18,7 @@ public class Prueba {
     
     public static void main (String[] args){
         
-        System.out.println("****************");
+        System.out.println("*************888888***");
         System.out.println(" Redes Sociales ");
         System.out.println("****************");
         System.out.println(" ");
